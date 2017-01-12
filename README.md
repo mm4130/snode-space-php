@@ -1,8 +1,8 @@
 # snode-space-php
 Simple class for sNode Space, written in PHP
 
-Required PHP modules:
+Required PHP version: 5.6+
 
-php5-curl
+Required PHP module: php5-curl or php7-curl
 
 Get your API key from [@dedUct](http://t.me/dedUct)
